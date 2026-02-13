@@ -1,2 +1,1 @@
-test content for the git tutorial
-test content for the git tutorial
+test content for the git tutorial git init is to create a new repo
